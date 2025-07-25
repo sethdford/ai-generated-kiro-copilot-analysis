@@ -1,7 +1,7 @@
 # **Continue.dev (Amazon Internal Fork): Enhancement Recommendations**
 ## **AWS Integration & Enterprise Enhancement Strategy**
 
-**TO**: Continue.dev Team (Amazon Internal), AWS Developer Tools Leadership  
+**TO**: Kiro Team AWS Developer Tools Leadership  
 **FROM**: AI Architecture Analysis Team  
 **CLASSIFICATION**: Engineering Recommendations - AWS Integration Enhancement
 
